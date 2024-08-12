@@ -1,16 +1,23 @@
 # Programming-Fundamentals-PF-in-Cpp
 
 Q1)   Write a C/C++ program to reverse a given number.
+
 Q2)   Write a C/C++ program to print the sum and product of digits of an integer.
+
 Q3)   Write a C/C++ to compute the sum of the first n terms of the following series.
 S = 1 + 1/2 + 1/3 + 1/4 + . . . + n
+
 Q4)   Write a C/C++ program to compute the sum of the first n terms of the series.
 S = 1 - 2 + 3 - 4 + 5 . . . n
+
 Q5)   Write a function that checks whether a given string is palindrome or not.
+
 Q6)   Write a function to find whether a given number is prime or not. Use the same function to generate all the prime numbers less than 100.
+
 Q7)   Write a C/C++ program to display Fibanocci Series:
 (i) Using Iteration
 (ii) Using Recursion
+
 Q8)   Write a C/C++ program to calculate GCD of two numbers:
 (i) Using Iteration
 (ii) Using Recursion
